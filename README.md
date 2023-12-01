@@ -1,4 +1,4 @@
-# ![Paquarse](https://github.com/Paquarse/Paquarse/blob/main/baniere.jpeg)
+# ![Paquarse](https://github.com/Paquarse/Paquarse/blob/main/wave-bg.svg)
 ### Bonjour 👋
 Je suis Pâquarse Delvich Mahouvi
 
