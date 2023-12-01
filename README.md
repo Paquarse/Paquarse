@@ -2,6 +2,11 @@
 Je suis Pâquarse Delvich Van Mahouvi, Data Analyst 📊 Data Scientist 🧠
 J'ai hâte de discuter de ma passion pour la data et de la façon dont je peux contribuer à votre entreprise.
 
+<p align = 'center'>
+  <a href = "https://www.linkedin.com/in/paquarse-mahouvi-48868b211/">
+    <img height = "24" src = "https://github.com/Paquarse/Paquarse/blob/main/linkedin.png?raw=true">
+  </a>&nbsp;&nbsp
+</p>
 <!--
 **Paquarse/Paquarse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
