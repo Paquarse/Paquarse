@@ -1,6 +1,6 @@
-# ![Paquarse](https://github.com/Paquarse/Paquarse/blob/main/wave-bg.svg)
 ### Bonjour 👋
-Je suis Pâquarse Delvich Mahouvi
+Je suis Pâquarse Delvich Van Mahouvi, Data Analyst & Data Scientist.
+J'ai hâte de discuter de ma passion pour la data et de la façon dont je peux contribuer à votre entreprise.
 
 <!--
 **Paquarse/Paquarse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
