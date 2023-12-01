@@ -1,6 +1,7 @@
 ### Bonjour 👋
-Je suis Pâquarse Delvich Van Mahouvi, Data Analyst 📊 Data Scientist 🧠
+Je suis Pâquarse Delvich Van Mahouvi, Data Analyst 📊 & Data Scientist 🧠
 J'ai hâte de discuter de ma passion pour la data et de la façon dont je peux contribuer à votre entreprise.
+N'hésitez pas à me contacter.
 
 <p align = 'center'>
     <a href = "mailto:mahouvipaquarse@gmail.com">
