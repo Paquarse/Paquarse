@@ -1,4 +1,4 @@
-<img align="center" alt = "Data" width = "1000" height = "200" src = "https://github.com/Paquarse/Paquarse/blob/main/1645203271916.jpeg">
+<img align="center" alt = "Data" width = "500" height = "200" src = "https://github.com/Paquarse/Paquarse/blob/main/generique2.gif">
 <img align="right" alt = "Data" width = "400" src = "https://github.com/Paquarse/Paquarse/blob/main/data.gif">
 <h1 align="center"> Bonjour 👋 Je suis Pâquarse Mahouvi</h1>
 <h3 align="center"> Data Analyst 📊 & Data Scientist 🧠 et Passionné de l'IA/ML </h3>
