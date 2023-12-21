@@ -13,7 +13,7 @@
     <img height = "24" src = "https://github.com/Paquarse/Paquarse/blob/main/email2.png?raw=true">
   </a>&nbsp;&nbsp;
   <a href = "https://www.linkedin.com/in/paquarse-mahouvi-48868b211/">
-    <img height = "24" src = "https://github.com/Paquarse/Paquarse/blob/main/linkedin.png?raw=true">
+    <img height = "24" src = "https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
   </a>&nbsp;&nbsp;
     <a href = "https://kaggle.com/https://www.kaggle.com/pquarsemahouvi">
     <img height = "24" src = "https://github.com/Paquarse/Paquarse/blob/main/kaggle.png">
