@@ -7,6 +7,14 @@
 - 📫 Comment me joindre  **mahouvipaquarse@gmail.com**
 
 <h3 align="left">Contactez moi sur : </h3>
+<p align = 'center'>
+    <a href = "mailto:mahouvipaquarse@gmail.com">
+    <img height = "24" src = "https://github.com/Paquarse/Paquarse/blob/main/email2.png?raw=true">
+  </a>&nbsp;&nbsp;
+  <a href = "https://www.linkedin.com/in/paquarse-mahouvi-48868b211/">
+    <img height = "24" src = "https://github.com/Paquarse/Paquarse/blob/main/linkedin.png?raw=true">
+  </a>&nbsp;&nbsp;
+</p>
 
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
