@@ -9,10 +9,8 @@
 <h3 align="left">Contactez moi sur : </h3>
 <p align="left">
 <a href = "mailto:mahouvipaquarse@gmail.com">
-    <img height = "24" src = "https://github.com/Paquarse/Paquarse/blob/main/email2.png?raw=true">
-</a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/paquarse-mahouvi-48868b211/" target="blank"><img align="center" src="https://github.com/Paquarse/Paquarse/blob/main/linkedin.png?raw=true" alt="https://www.linkedin.com/in/paquarse-mahouvi-48868b211/" height="24" /></a> 
-<a href="https://kaggle.com/https://www.kaggle.com/pquarsemahouvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pquarsemahouvi" height="24" width="40" /></a>
+    <img height = "30" src = "https://github.com/Paquarse/Paquarse/blob/main/email2.png?raw=true">
+</a>&nbsp;&nbsp; <a href="https://linkedin.com/in/https://www.linkedin.com/in/paquarse-mahouvi-48868b211/" target="blank"><img align="center" src="https://github.com/Paquarse/Paquarse/blob/main/linkedin.png?raw=true" alt="https://www.linkedin.com/in/paquarse-mahouvi-48868b211/" height="24" /></a> <a href="https://kaggle.com/https://www.kaggle.com/pquarsemahouvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pquarsemahouvi" height="24" width="40" /></a>
 </p>
 
 <h3 align="left">Langages et outils :</h3>
