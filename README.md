@@ -14,6 +14,9 @@
   <a href = "https://www.linkedin.com/in/paquarse-mahouvi-48868b211/">
     <img height = "24" src = "https://github.com/Paquarse/Paquarse/blob/main/linkedin.png?raw=true">
   </a>&nbsp;&nbsp;
+  <a href = "https://www.kaggle.com/pquarsemahouvi">
+    <img height = "24" src = "https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg">
+  </a>&nbsp;&nbsp;
 </p>
 
 <h3 align="left"> Langages et Outils : </h3>
