@@ -5,8 +5,8 @@
 - 🌱 J'apprends actuellement **MLOps, Kafka, Data engineer tools**
 
 - 📫 Comment me joindre  **mahouvipaquarse@gmail.com**
-- ⚡ Hobbies : Football, Sériphile, Musique, Documentaires
-
+- ⚡ Hobbies : Football, Sériphile, Musique, Documentaires 
+  
 <h3 align="left">Contactez moi sur : </h3>
 <p align = 'center'>
     <a href = "mailto:mahouvipaquarse@gmail.com">
