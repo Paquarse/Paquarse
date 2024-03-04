@@ -1,5 +1,5 @@
 <img align="right" alt = "Data" width = "400" src = "https://github.com/Paquarse/Paquarse/blob/main/data.gif">
-<h1 align="center"> Bonjour 👋 Je suis Pâquarse Mahouvi</h1>
+<h2 align="center"> Bonjour 👋 Je suis Pâquarse Mahouvi</h2>
 <h3 align="center"> Data Analyst 📊 & Data Scientist 🧠 et Passionné de l'IA/ML </h3>
 
 - 🌱 J'apprends actuellement **MLOps, Kafka, Data engineer tools**
