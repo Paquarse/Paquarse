@@ -49,7 +49,10 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
     <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
     <a href="https://www.atlassian.com/fr/software/jira?&aceid=%7Baceid%7D&adposition=&adgroup=1311717808697647&campaign=470096774&creative=&device=c&keyword=atlassian%20jira&matchtype=p&network=s&placement=&ds_kids=p74752121659&ds_e=MICROSOFT&ds_eid=700000001738795&ds_e1=GOOGLE&msclkid=ae2cbe5e03b41cb43117dbda3a455f19&gclid=ae2cbe5e03b41cb43117dbda3a455f19&gclsrc=3p.ds" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
-    <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a> 
+    <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
+      <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="latex" width="40" height="40"/> </a> 
+
+  
 <!--
 ### Bonjour 👋
 Je suis Pâquarse Delvich Van Mahouvi, Data Analyst 📊 & Data Scientist 🧠
