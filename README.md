@@ -1,4 +1,4 @@
-<h2 align="left"> Bonjour 👋 Je suis Pâquarse Mahouvi</h2>
+<h2 align="left"> Bonjour 👋 Je suis Pâquarse Delvich Van Mahouvi</h2>
 
 <img align="right" alt = "Data" width = "350" src = "https://github.com/Paquarse/Paquarse/blob/main/data.gif">
 
