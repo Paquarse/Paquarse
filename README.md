@@ -54,6 +54,7 @@
   <a href="https://www.selenium.dev/documentation/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/> </a>
   <a href="https://matplotlib.org/stable/gallery/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="Matplotlib" width="40" height="40"/> </a>
   <a href="https://networkx.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" alt="Networkx" width="40" height="40"/> </a>
+  <a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/stata/stata-original-wordmark.svg" alt="Stata" width="40" height="40"/> </a>
 
 
   
