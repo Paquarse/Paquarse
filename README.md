@@ -4,7 +4,7 @@
 
 <h3 align="center"> Data Analyst 📊 & Data Scientist 🧠 et Passionné de l'IA/ML </h3>
 
-- 🌱 J'apprends actuellement **MLOps, Kafka, Data engineer tools**
+- 🌱 J'apprends actuellement **Hadoop, Kafka, Data engineer tools**
 
 - 📫 Comment me joindre  **mahouvipaquarse@gmail.com**
 - ⚡ Hobbies : Football, Sériphile, Musique, Documentaires 
