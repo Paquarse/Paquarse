@@ -17,6 +17,9 @@
   <a href = "https://www.linkedin.com/in/paquarse-mahouvi-48868b211/">
     <img height = "24" src = "https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
   </a>&nbsp;&nbsp;
+    <a href = "https://paquarse.github.io/">
+    <img height = "24" src = "https://github.com/devicons/devicon/blob/master/icons/gitbook/gitbook-original.svg">
+  </a>&nbsp;&nbsp;
   <a href = "https://www.kaggle.com/pquarsemahouvi">
     <img height = "24" src = "https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg">
   </a>&nbsp;&nbsp;
