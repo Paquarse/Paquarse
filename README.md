@@ -5,7 +5,7 @@
 <h3 align="center"> Data Analyst 📊 & Data Scientist 🧠 et Passionné de l'IA/ML </h3>
 
 - 🌱 J'apprends actuellement **Hadoop, Kafka, Data engineer tools**
-- 🕵️‍♂️ Recherche d'opportunités à partir d' **Octobre 2024**
+- 💼 En poste chez **Catalina Marketing France**
 - 📫 Comment me joindre  **mahouvipaquarse@gmail.com**
 - ⚡ Hobbies : Football, Sériphile, Musique, Documentaires 
   
