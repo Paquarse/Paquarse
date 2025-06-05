@@ -2,7 +2,7 @@
 
 <img align="right" alt = "Data" width = "350" src = "https://github.com/Paquarse/Paquarse/blob/main/data.gif">
 
-<h3 align="center"> Data Analyst 📊 & Data Scientist 🧠 et Passionné de l'IA/ML </h3>
+<h3 align="center"> 📊 Data Analyst et Passionné de l'IA/ML 🧠 </h3>
 
 - 🌱 J'apprends actuellement **Hadoop, Kafka, Data engineer tools**
 - 💼 En poste chez **Catalina Marketing France**
